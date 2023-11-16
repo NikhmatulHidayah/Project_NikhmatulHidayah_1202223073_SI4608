@@ -1,1 +1,1 @@
-{"dataMahasiswa":[{"nim":"1202223073","nama":"Nikhmatul Hidayah","prodi":{"id":"111","nama":"Sistem Informasi"}},{"nim":"1202223073","nama":"nikhmatul","prodi":{"id":"111","nama":"Sistem Informasi"}}],"dataProdi":[{"id":"111","nama":"Sistem Informasi"}]}
+{"dataMahasiswa":[{"nim":"1202223073","nama":"nikhmatul","prodi":{"id":"111","nama":"Sistem Informasi"}},{"nim":"1202223053","nama":"ayu","prodi":{"id":"222","nama":"MBTI"}}],"dataProdi":[{"id":"111","nama":"Sistem Informasi"},{"id":"222","nama":"MBTI"}]}
