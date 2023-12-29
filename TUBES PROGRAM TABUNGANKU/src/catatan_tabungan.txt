@@ -1,0 +1,19 @@
+Id Tabungan: 1
+Jenis Tabungan: Jangka Panjang
+Nama Tabungan: nikah
+Waktu Pemasukan: 01-10-2023
+Waktu Penarikan: 01-20-2025
+Saldo: 107800
+Id Tabungan: 1
+Jenis Tabungan: Jangka Pendek
+Nama Tabungan: main
+Waktu Pemasukan: 01-10-2023
+Waktu Penarikan: 01-11-2023
+Saldo: 10000
+
+=== Daftar Transaksi ===
+30-12-2023 00:08:34 - Menambahkan Tabungan Jangka Panjang dengan id : 1
+30-12-2023 00:09:20 - Menambahkan Tabungan Jangka Pendek dengan id : 1
+30-12-2023 00:09:33 - Menambahkan saldo ke Tabungan Jangka Panjang dengan id 1: 10000
+30-12-2023 00:09:45 - Menarik uang dari Tabungan Jangka Panjang dengan id 1: 200
+30-12-2023 00:10:02 - Menarik uang dari Tabungan Jangka Panjang dengan id 1: 2000
